@@ -18,12 +18,22 @@
       <change afterPath="$PROJECT_DIR$/../typical-arrays-problems" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helpers/args.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wather.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../wildlife" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/storage.service.js" beforeDir="false" afterPath="$PROJECT_DIR$/service/storage.service.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -40,9 +50,29 @@
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="16.13.2" />
     <property name="javascript.nodejs.core.library.typings.version" value="16.11.22" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Node.js.args.js">
+    <configuration name="args.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/helpers/args.js" working-dir="$PROJECT_DIR$/helpers">
+      <method v="2" />
+    </configuration>
+    <configuration name="wather.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/wather.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.args.js" />
+        <item itemvalue="Node.js.wather.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -52,7 +82,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1643713330373</updated>
-      <workItem from="1643713331439" duration="1030000" />
+      <workItem from="1643713331439" duration="13330000" />
     </task>
     <servers />
   </component>
@@ -69,5 +99,38 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="521" y="256" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1643728147352">
+      <screen x="0" y="43" width="1536" height="821" />
+    </state>
+    <state x="521" y="256" key="#com.intellij.fileTypes.FileTypeChooser/0.43.1536.821@0.43.1536.821" timestamp="1643728147352" />
+    <state x="499" y="201" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1643729617956">
+      <screen x="0" y="43" width="1536" height="821" />
+    </state>
+    <state x="499" y="201" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.43.1536.821@0.43.1536.821" timestamp="1643729617956" />
+    <state x="393" y="43" key="CommitChangelistDialog2" timestamp="1643715014070">
+      <screen x="0" y="43" width="1536" height="821" />
+    </state>
+    <state x="393" y="43" key="CommitChangelistDialog2/0.43.1536.821@0.43.1536.821" timestamp="1643715014070" />
+    <state width="1515" height="209" key="GridCell.Tab.0.bottom" timestamp="1643726959640">
+      <screen x="0" y="43" width="1536" height="821" />
+    </state>
+    <state width="1515" height="209" key="GridCell.Tab.0.bottom/0.43.1536.821@0.43.1536.821" timestamp="1643726959640" />
+    <state width="1515" height="209" key="GridCell.Tab.0.center" timestamp="1643726959640">
+      <screen x="0" y="43" width="1536" height="821" />
+    </state>
+    <state width="1515" height="209" key="GridCell.Tab.0.center/0.43.1536.821@0.43.1536.821" timestamp="1643726959640" />
+    <state width="1515" height="209" key="GridCell.Tab.0.left" timestamp="1643726959640">
+      <screen x="0" y="43" width="1536" height="821" />
+    </state>
+    <state width="1515" height="209" key="GridCell.Tab.0.left/0.43.1536.821@0.43.1536.821" timestamp="1643726959640" />
+    <state width="1515" height="209" key="GridCell.Tab.0.right" timestamp="1643726959640">
+      <screen x="0" y="43" width="1536" height="821" />
+    </state>
+    <state width="1515" height="209" key="GridCell.Tab.0.right/0.43.1536.821@0.43.1536.821" timestamp="1643726959640" />
   </component>
 </project>

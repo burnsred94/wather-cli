@@ -16,12 +16,12 @@
       <change afterPath="$PROJECT_DIR$/../brackets" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../rsschool-cv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../typical-arrays-problems" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.npmignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helpers/args.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wather.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/api.service.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../wildlife" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service/storage.service.js" beforeDir="false" afterPath="$PROJECT_DIR$/service/storage.service.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wather.js" beforeDir="false" afterPath="$PROJECT_DIR$/wather.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +36,9 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_COMMON_BRANCH" value="master" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProjectId" id="24VQZbOeXHrG9AdFVwznNrpnbvv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -60,7 +62,7 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.args.js">
+  <component name="RunManager" selected="Node.js.wather.js">
     <configuration name="args.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/helpers/args.js" working-dir="$PROJECT_DIR$/helpers">
       <method v="2" />
     </configuration>
@@ -69,8 +71,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.args.js" />
         <item itemvalue="Node.js.wather.js" />
+        <item itemvalue="Node.js.args.js" />
       </list>
     </recent_temporary>
   </component>
@@ -83,6 +85,9 @@
       <option name="presentableId" value="Default" />
       <updated>1643713330373</updated>
       <workItem from="1643713331439" duration="13330000" />
+      <workItem from="1643747570485" duration="383000" />
+      <workItem from="1643802795122" duration="5619000" />
+      <workItem from="1643829316929" duration="333000" />
     </task>
     <servers />
   </component>
@@ -99,6 +104,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="LAST_COMMIT_MESSAGE" value="" />

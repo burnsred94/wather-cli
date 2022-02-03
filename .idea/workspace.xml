@@ -16,12 +16,15 @@
       <change afterPath="$PROJECT_DIR$/../brackets" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../rsschool-cv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../typical-arrays-problems" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/api.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../wildlife" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/api.service.js" beforeDir="false" afterPath="$PROJECT_DIR$/service/api.service.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/lock-service.js" beforeDir="false" afterPath="$PROJECT_DIR$/service/log.service.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service/storage.service.js" beforeDir="false" afterPath="$PROJECT_DIR$/service/storage.service.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wather.js" beforeDir="false" afterPath="$PROJECT_DIR$/wather.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wather.js" beforeDir="false" afterPath="$PROJECT_DIR$/weather.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,16 +65,16 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.wather.js">
+  <component name="RunManager" selected="Node.js.weather.js">
     <configuration name="args.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/helpers/args.js" working-dir="$PROJECT_DIR$/helpers">
       <method v="2" />
     </configuration>
-    <configuration name="wather.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/wather.js" working-dir="$PROJECT_DIR$">
+    <configuration name="weather.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/weather.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.wather.js" />
+        <item itemvalue="Node.js.weather.js" />
         <item itemvalue="Node.js.args.js" />
       </list>
     </recent_temporary>
@@ -87,7 +90,8 @@
       <workItem from="1643713331439" duration="13330000" />
       <workItem from="1643747570485" duration="383000" />
       <workItem from="1643802795122" duration="5619000" />
-      <workItem from="1643829316929" duration="333000" />
+      <workItem from="1643829316929" duration="948000" />
+      <workItem from="1643881471299" duration="7614000" />
     </task>
     <servers />
   </component>
@@ -110,10 +114,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="521" y="256" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1643728147352">
+    <state x="521" y="256" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1643888481927">
       <screen x="0" y="43" width="1536" height="821" />
     </state>
-    <state x="521" y="256" key="#com.intellij.fileTypes.FileTypeChooser/0.43.1536.821@0.43.1536.821" timestamp="1643728147352" />
+    <state x="521" y="256" key="#com.intellij.fileTypes.FileTypeChooser/0.43.1536.821@0.43.1536.821" timestamp="1643888481927" />
     <state x="499" y="201" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1643729617956">
       <screen x="0" y="43" width="1536" height="821" />
     </state>
@@ -122,21 +126,73 @@
       <screen x="0" y="43" width="1536" height="821" />
     </state>
     <state x="393" y="43" key="CommitChangelistDialog2/0.43.1536.821@0.43.1536.821" timestamp="1643715014070" />
-    <state width="1515" height="209" key="GridCell.Tab.0.bottom" timestamp="1643726959640">
+    <state width="757" height="209" key="GridCell.Tab.0.bottom" timestamp="1643830272428">
       <screen x="0" y="43" width="1536" height="821" />
     </state>
-    <state width="1515" height="209" key="GridCell.Tab.0.bottom/0.43.1536.821@0.43.1536.821" timestamp="1643726959640" />
-    <state width="1515" height="209" key="GridCell.Tab.0.center" timestamp="1643726959640">
+    <state width="757" height="209" key="GridCell.Tab.0.bottom/0.43.1536.821@0.43.1536.821" timestamp="1643830272428" />
+    <state width="757" height="209" key="GridCell.Tab.0.center" timestamp="1643830272428">
       <screen x="0" y="43" width="1536" height="821" />
     </state>
-    <state width="1515" height="209" key="GridCell.Tab.0.center/0.43.1536.821@0.43.1536.821" timestamp="1643726959640" />
-    <state width="1515" height="209" key="GridCell.Tab.0.left" timestamp="1643726959640">
+    <state width="757" height="209" key="GridCell.Tab.0.center/0.43.1536.821@0.43.1536.821" timestamp="1643830272428" />
+    <state width="757" height="209" key="GridCell.Tab.0.left" timestamp="1643830272428">
       <screen x="0" y="43" width="1536" height="821" />
     </state>
-    <state width="1515" height="209" key="GridCell.Tab.0.left/0.43.1536.821@0.43.1536.821" timestamp="1643726959640" />
-    <state width="1515" height="209" key="GridCell.Tab.0.right" timestamp="1643726959640">
+    <state width="757" height="209" key="GridCell.Tab.0.left/0.43.1536.821@0.43.1536.821" timestamp="1643830272428" />
+    <state width="757" height="209" key="GridCell.Tab.0.right" timestamp="1643830272428">
       <screen x="0" y="43" width="1536" height="821" />
     </state>
-    <state width="1515" height="209" key="GridCell.Tab.0.right/0.43.1536.821@0.43.1536.821" timestamp="1643726959640" />
+    <state width="757" height="209" key="GridCell.Tab.0.right/0.43.1536.821@0.43.1536.821" timestamp="1643830272428" />
+    <state width="757" height="260" key="GridCell.Tab.1.bottom" timestamp="1643830272420">
+      <screen x="0" y="43" width="1536" height="821" />
+    </state>
+    <state width="757" height="260" key="GridCell.Tab.1.bottom/0.43.1536.821@0.43.1536.821" timestamp="1643830272420" />
+    <state width="757" height="260" key="GridCell.Tab.1.center" timestamp="1643830272420">
+      <screen x="0" y="43" width="1536" height="821" />
+    </state>
+    <state width="757" height="260" key="GridCell.Tab.1.center/0.43.1536.821@0.43.1536.821" timestamp="1643830272420" />
+    <state width="757" height="260" key="GridCell.Tab.1.left" timestamp="1643830272420">
+      <screen x="0" y="43" width="1536" height="821" />
+    </state>
+    <state width="757" height="260" key="GridCell.Tab.1.left/0.43.1536.821@0.43.1536.821" timestamp="1643830272420" />
+    <state width="757" height="260" key="GridCell.Tab.1.right" timestamp="1643830272420">
+      <screen x="0" y="43" width="1536" height="821" />
+    </state>
+    <state width="757" height="260" key="GridCell.Tab.1.right/0.43.1536.821@0.43.1536.821" timestamp="1643830272420" />
+    <state width="757" height="260" key="GridCell.Tab.2.bottom" timestamp="1643830272420">
+      <screen x="0" y="43" width="1536" height="821" />
+    </state>
+    <state width="757" height="260" key="GridCell.Tab.2.bottom/0.43.1536.821@0.43.1536.821" timestamp="1643830272420" />
+    <state width="757" height="260" key="GridCell.Tab.2.center" timestamp="1643830272420">
+      <screen x="0" y="43" width="1536" height="821" />
+    </state>
+    <state width="757" height="260" key="GridCell.Tab.2.center/0.43.1536.821@0.43.1536.821" timestamp="1643830272420" />
+    <state width="757" height="260" key="GridCell.Tab.2.left" timestamp="1643830272420">
+      <screen x="0" y="43" width="1536" height="821" />
+    </state>
+    <state width="757" height="260" key="GridCell.Tab.2.left/0.43.1536.821@0.43.1536.821" timestamp="1643830272420" />
+    <state width="757" height="260" key="GridCell.Tab.2.right" timestamp="1643830272420">
+      <screen x="0" y="43" width="1536" height="821" />
+    </state>
+    <state width="757" height="260" key="GridCell.Tab.2.right/0.43.1536.821@0.43.1536.821" timestamp="1643830272420" />
+    <state width="757" height="260" key="GridCell.Tab.3.bottom" timestamp="1643830272420">
+      <screen x="0" y="43" width="1536" height="821" />
+    </state>
+    <state width="757" height="260" key="GridCell.Tab.3.bottom/0.43.1536.821@0.43.1536.821" timestamp="1643830272420" />
+    <state width="757" height="260" key="GridCell.Tab.3.center" timestamp="1643830272420">
+      <screen x="0" y="43" width="1536" height="821" />
+    </state>
+    <state width="757" height="260" key="GridCell.Tab.3.center/0.43.1536.821@0.43.1536.821" timestamp="1643830272420" />
+    <state width="757" height="260" key="GridCell.Tab.3.left" timestamp="1643830272420">
+      <screen x="0" y="43" width="1536" height="821" />
+    </state>
+    <state width="757" height="260" key="GridCell.Tab.3.left/0.43.1536.821@0.43.1536.821" timestamp="1643830272420" />
+    <state width="757" height="260" key="GridCell.Tab.3.right" timestamp="1643830272420">
+      <screen x="0" y="43" width="1536" height="821" />
+    </state>
+    <state width="757" height="260" key="GridCell.Tab.3.right/0.43.1536.821@0.43.1536.821" timestamp="1643830272420" />
+    <state x="425" y="208" key="run.anything.popup" timestamp="1643888061910">
+      <screen x="0" y="43" width="1536" height="821" />
+    </state>
+    <state x="425" y="208" key="run.anything.popup/0.43.1536.821@0.43.1536.821" timestamp="1643888061910" />
   </component>
 </project>

@@ -2,9 +2,9 @@
   "name": "wather-cli",
   "version": "1.0.0",
   "description": "CLI for getting weather",
-  "main": "wather.js",
+  "main": "weather.js",
   "bin": {
-    "wather": "wather.js"
+    "wather": "weather.js"
   },
   "type": "module",
   "scripts": {

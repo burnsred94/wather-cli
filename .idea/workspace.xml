@@ -16,15 +16,9 @@
       <change afterPath="$PROJECT_DIR$/../brackets" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../rsschool-cv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../typical-arrays-problems" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../wildlife" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/api.service.js" beforeDir="false" afterPath="$PROJECT_DIR$/service/api.service.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/lock-service.js" beforeDir="false" afterPath="$PROJECT_DIR$/service/log.service.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/storage.service.js" beforeDir="false" afterPath="$PROJECT_DIR$/service/storage.service.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wather.js" beforeDir="false" afterPath="$PROJECT_DIR$/weather.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather.js" beforeDir="false" afterPath="$PROJECT_DIR$/weather.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +85,7 @@
       <workItem from="1643747570485" duration="383000" />
       <workItem from="1643802795122" duration="5619000" />
       <workItem from="1643829316929" duration="948000" />
-      <workItem from="1643881471299" duration="7614000" />
+      <workItem from="1643881471299" duration="8423000" />
     </task>
     <servers />
   </component>

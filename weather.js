@@ -37,11 +37,11 @@ const getForcast = async () =>{
       const weather = await getWeather(city)
         printWeather(weather, getIcon(weather.weather[0].icon))
     }catch (e){
-        if(e?.responce?.status === 404){
+        if(e?.response?.status === 404){
             printError('Неверно указан город')
         }
-        if(e?.responce?.status === 401){
-            printError('Неверно указон токен')
+        if(e?.response?.status === 401){
+            printError('Неверно указан токен')
         }else{
             printError(e.message)
         }

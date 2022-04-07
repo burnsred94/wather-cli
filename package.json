@@ -2,8 +2,11 @@
   "name": "wather-cli",
   "version": "1.0.0",
   "description": "CLI for getting weather",
-  "main": "index.js",
-  "bin": "./index.js",
+  "main": "weather.js",
+  "bin": {
+    "wather": "weather.js"
+  },
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,6 +14,15 @@
     "cli",
     "wather"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:burnsred94/wather-cli.git"
+  },
   "author": "Oleg Kamenshikov",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "chalk": "^5.0.0",
+    "dedent": "^0.7.0"
+  }
 }
